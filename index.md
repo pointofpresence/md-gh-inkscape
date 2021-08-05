@@ -7,6 +7,14 @@
 
 -----
 
+# Inverting colours
+
+Note that Filters->Color->Invert... will work regardless of whether it's a raster or not. If it's a vector image made up of several parts it will be easier to group them all first.
+
+But there's a big caveat: filters are a raster effect applied at the point of rendering your image. They do not alter the underlying geometry or data of the vector objects. If your requirement is just to export an inverted PNG this should work fine. If, however, the SVG file has to go to another program that expects black and white fills on the vector objects, filters won't do the job. In that case Extensions > Colour > Negative should do the job.
+
+---------
+
 # Object
 * F1 → Перейти в режим вращения → зажать *Ctrl* → потянуть уголок → **поворот на 15 градусов**
 * F1 → Перейти в режим вращения → зажать *Ctrl* → потянуть между уголками - **skew (изометрия) - с привязкой**

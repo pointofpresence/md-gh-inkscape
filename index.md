@@ -6,6 +6,7 @@
 (These commands require that more than two adjacent nodes be selected)
 
 Shift+L - make line
+
 Shift+U - make curve
 
 ## Change node type

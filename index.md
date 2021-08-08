@@ -2,8 +2,30 @@
 <!-- copyright: ReSampled 3 -->
 
 # Node tool
-* *Shift+L* – Make DOT line
-* *Shift+Y* – Make DOT symmetric
+## Change segment(s)
+(These commands require that more than two adjacent nodes be selected)
+
+Shift+L - make line
+Shift+U - make curve
+
+## Change node type
+Shift+C
+make cusp
+First Shift+C changes type of node; if you do another Shift+C on an already cusp node, it retracts its handles.
+
+Shift+S
+make smooth
+If a cusp node is adjacent to a line segment, first Shift+S makes it half-smooth with one handle collinear with the segment; another Shift+S will expand a second handle.
+
+Shift+Y
+make symmetric
+When making smooth or symmetric, you can lock the position of one of the handles by hovering mouse over it.
+
+Shift+A
+make auto
+
+Ctrl+Left Mouse click
+toggle smooth/cusp/symmetric/auto
 
 -----
 

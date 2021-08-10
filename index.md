@@ -78,6 +78,8 @@ But there's a big caveat: filters are a raster effect applied at the point of re
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7rEnrc0wh5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+-----------
+
 
 ## Внутренняя штриховка ([источник](https://inkscape.paint-net.ru/?id=38))
 Создайте контур и сделайте его копию *(Ctrl+D)*. Далее — **"Контур" → "Редактор контурных эффектов"** или *Shift+Ctrl+7*. Выберите эффект "Внутренняя штриховка" (“Hatches (rough)“) и нажмите кнопку **"Добавить"**.

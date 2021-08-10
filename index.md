@@ -70,20 +70,24 @@ But there's a big caveat: filters are a raster effect applied at the point of re
 Можно сделать дубль узора и разместить еще где-нибудь на штрихуемом объекте. После того как линии будут размещены, сделайте дубль штрихуемого объекта *(Ctrl+D)*. Выделите линии и дубль штрихуемого объекта и в главном меню **"Объект" → "Обтравочный контур" → "Установить"**.
 
 ![image](http://p.resampled.ru/popd-4589d6a3ea6603741700d106193d9ffd.png)
+
 ## Карандашный набросок ([источник](https://inkscape.paint-net.ru/?id=38))
 Когда контур выделен, примените к нему контурный эффект "карандашный набросок" (**"Контур" → "Редактор контурных эффектов"** или *Shift+Ctrl+7*) .
 
 ![image](http://p.resampled.ru/popd-98eb1dfb9159df90c425d7a0e571ef52.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7rEnrc0wh5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Внутренняя штриховка ([источник](https://inkscape.paint-net.ru/?id=38))
 Создайте контур и сделайте его копию *(Ctrl+D)*. Далее — **"Контур" → "Редактор контурных эффектов"** или *Shift+Ctrl+7*. Выберите эффект "Внутренняя штриховка" (“Hatches (rough)“) и нажмите кнопку **"Добавить"**.
-
 
 ![image](http://p.resampled.ru/popd-c1703560a17d0697e943ed737334267a.png)
 
 Если теперь выделить штриховку инструментом управления узлами *(F2)*, то вы увидите несколько управляющих маркеров. С помощью этих маркеров и параметров эффекта можно управлять свойствами штриховки.
 
-
 ![image](http://p.resampled.ru/popd-aa1330dc5265bee1c1876d406eb95e33.png)
+
 ## Переключение между перекрывающимися объектами
 С точки зрения работы огромные трудности вызывают перекрывающиеся объекты. Переключаться между ними можно, удерживая клавишу *Alt*.
 
@@ -93,7 +97,6 @@ But there's a big caveat: filters are a raster effect applied at the point of re
 ![i](http://p.resampled.ru/popd-01fb183e1cfe19b46def1e0749431c89.png)
 
 Выберите **Free from reflection line** и нажмите *F2* чтобы управлять смещением отражения. Выберите **Fuse paths**, чтобы “склеить” обе части.
-
 
 ![image](http://p.resampled.ru/popd-0103fc5335d386bdc9d9ae5a32830267.png)
 

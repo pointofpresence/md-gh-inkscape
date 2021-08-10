@@ -105,6 +105,9 @@ But there's a big caveat: filters are a raster effect applied at the point of re
 
 ![image](http://p.resampled.ru/popd-beed113b334527be98f2875cc3265775.png)
 
+# Горячие клавиши
+https://inkscape.org/doc/keys.html
+
 -----
 # Источники
 * <http://www.inkscape.sdemch.ru/indexinkscape.htm>

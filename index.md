@@ -1,6 +1,12 @@
 # Фишки Inkscape
 <!-- copyright: ReSampled 3 -->
 
+# Effects
+## Film grain
+https://www.youtube.com/watch?v=f2c9shGMlTA
+https://www.youtube.com/watch?v=CI670zWWB5o
+https://www.youtube.com/watch?v=Aq9FEXSqxaU
+
 # Node tool
 ## Change segment(s)
 (These commands require that more than two adjacent nodes be selected)
